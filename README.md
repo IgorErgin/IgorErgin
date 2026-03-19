@@ -21,6 +21,7 @@
 ![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-green?style=flat&logo=dagger&logoColor=white)
 
 **Сеть и Данные**
+![Ktor](https://img.shields.io/badge/Ktor-4285F4?style=flat&logo=&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-square?style=flat&logo=square&logoColor=white)
 ![OkHttp](https://img.shields.io/badge/OkHttp-square?style=flat)
 ![Room](https://img.shields.io/badge/Room-Database-4285F4?style=flat)
